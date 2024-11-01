@@ -22,9 +22,10 @@
 ## 🛠️ Skills
 
   - HTML, CSS, JavaScript.
+  - Bootstrap.
   - Angular.
   - Git, GitHub.
-  - Tailwind CSS (brief Knowledge).
+  
 
 
 
